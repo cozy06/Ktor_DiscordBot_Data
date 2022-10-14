@@ -1,0 +1,1 @@
+rootProject.name = "Ktor_DiscordBot_Data"
